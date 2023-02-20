@@ -6,5 +6,6 @@ import java.util.Set;
 
 public class DeveloperProjectFinder {
     public List<String> findDeveloperProject(Map<String, Set<String>> projects, String developer) {
+        return null;
     }
 }
